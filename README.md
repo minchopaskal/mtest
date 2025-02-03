@@ -2,6 +2,10 @@
 
 A lightweight unit testing framework intended for use in small projects for which dependency on `gtest` or similar will be an overkill.
 
+## Requirements
+
+- C++17
+
 ## Usage
 
 Add the `mtest.{h,cpp}` files in your project, preferably under a directory specific for testing - f.e `test`.
